@@ -1,0 +1,24 @@
+JS Environment
+https://github.com/coryhouse/javascript-development-environment
+
+React, Flux, redux
+https://github.com/coryhouse/react-flux-starter-kit
+https://github.com/coryhouse/pluralsight-redux-starter
+https://github.com/coryhouse/react-slingshot
+https://github.com/coryhouse/react-flux-building-applications
+https://github.com/techmynd/awesome-react
+
+react starter projects
+https://www.javascriptstuff.com/react-starter-projects/
+
+angularjs -starterkits
+https://github.com/gianarb/awesome-angularjs
+
+Search google with platform name with these keywords
+=================================================
+development environment
+boilerplate
+starter kit
+starter project
+seed
+
